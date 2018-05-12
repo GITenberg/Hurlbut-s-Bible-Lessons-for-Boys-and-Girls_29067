@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33676
     wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29067#Hurlbut-s-Bible-Lessons-for-Boys-and-Girls
 gutenberg_issued: '2009-06-08'
 gutenberg_type: Text
 identifiers:
