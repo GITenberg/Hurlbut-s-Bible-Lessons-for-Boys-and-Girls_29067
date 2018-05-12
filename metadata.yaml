@@ -1,0 +1,30 @@
+_repo: Hurlbut-s-Bible-Lessons-for-Boys-and-Girls_29067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurlbut, Jesse Lyman
+    aliases:
+    - Hurlbott, Jesse Lyman
+    - Hurlbut, J. L. (Jesse Lyman)
+    birthdate: 1843
+    deathdate: 1930
+    gutenberg_agent_id: '33676'
+    url: http://www.gutenberg.org/2009/agents/33676
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
+description: ''
+gutenberg_issued: '2009-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible -- Study and teaching'
+title: Hurlbut's Bible Lessons for Boys and Girls
+url: http://www.gutenberg.org/ebooks/29067
